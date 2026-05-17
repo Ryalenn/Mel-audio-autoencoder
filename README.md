@@ -11,6 +11,9 @@ The notebook implements the complete pipeline:
 
 Everything is contained inside a single Jupyter notebook.
 
+
+![Autoencoder pipeline](pipeline.png)
+
 ---
 
 ## Overview
